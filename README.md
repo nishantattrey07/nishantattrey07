@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant</h1>
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Nishant</h1>
 <h3 align="center">Student learning and trying to give back community via open source</h3>
 
 - 🌱 I’m currently learning **Java + DSA**
