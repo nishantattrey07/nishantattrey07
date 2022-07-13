@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, BASH,  LINUX**
 
-- 📫 How to reach me **nishantattrey07+github@gmail.com**
+- 📫 How to reach me **nishantattrey07@gmail.com**
 
 - ⚡ fact **Most of my repository are quarantined for now**
 <h3 align="left">Languages and Tools:</h3>
