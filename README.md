@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java + DSA**
 
-- 💬 Ask me about **Java, BASH,  LINUX**
+- 💬 Ask me about **JAVA, BASH,  LINUX, PYTHON**
 
 - 📫 How to reach me **nishantattrey07@gmail.com**
 
