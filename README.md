@@ -1,7 +1,8 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Nishant</h1>
 <h3 align="center">Student learning and trying to give back community via open source</h3>
 
-- 🌱 I’m currently learning **Java + DSA**
+- 🌱 I’m currently learning **Front-End Development**
+check my work here-nishant07.github.io
 
 - 💬 Ask me about **JAVA, BASH,  LINUX, PYTHON**
 
