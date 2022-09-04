@@ -2,7 +2,7 @@
 <h3 align="center">Student learning and trying to give back community via open source</h3>
 
 - 🌱 I’m currently learning **Front-End Development**
-check my work here-nishant07.github.io
+
 
 - 💬 Ask me about **JAVA, BASH,  LINUX, PYTHON**
 
