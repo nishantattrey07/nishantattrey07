@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Front-End Development**
 
 
-- 💬 Ask me about **JAVA, BASH,  LINUX, PYTHON**
+- 💬 Ask me about **JAVA, BASH,  LINUX, PYTHON, MERN Stack**
 
 - 📫 How to reach me **nishantattrey07@gmail.com**
 
